@@ -19,19 +19,3 @@ Key Insights
   A few suppliers drive the majority of revenue growth.
   Nancy Davolio and Margaret Peacock handled the widest client bases.
   Freight cost differences suggest optimization opportunities in shipping.
-
-Dataset Information
-The Northwind dataset is a sample database commonly used for SQL learning and business analysis.
-It contains information about:
-| Table           | Description                                          |
-| --------------- | ---------------------------------------------------- |
-| `customers`     | Company clients buying products                      |
-| `orders`        | Transactions placed by customers                     |
-| `order_details` | Line items of each order (quantity, price, discount) |
-| `products`      | Inventory sold                                       |
-| `suppliers`     | Companies supplying inventory                        |
-| `employees`     | Sales representatives handling orders                |
-| `shippers`      | Logistics partners delivering orders                 |
-| `categories`    | Product groupings like Beverages, Condiments, etc.   |
-
-
